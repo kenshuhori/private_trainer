@@ -1,0 +1,368 @@
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: Init backup folder for self update controller
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: Copy current files of controller to backup folder
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file config.properties
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file cws5x.ini
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder data
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder dict
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder executor
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file keptFile.txt
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder resources
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file sampleServer.ini
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder self_update
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file serverProps.ini
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file testApplicationContext.xml
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_admin
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_ap_home
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_check_tool
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_conpany_cfg_tool
+10 30, 2017 7:17:54 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_crypt
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_cwsdl
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_db_home
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_db_update
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_diff
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_dir_compare
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_ear_tool
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_exceptional_xml
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_filecopy
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_fileop
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_ftp
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_httpdconf
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_importer
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_prop
+10 30, 2017 7:17:55 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_question_xls
+10 30, 2017 7:17:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file test_resources - Shortcut.lnk
+10 30, 2017 7:17:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_resources_backup
+10 30, 2017 7:17:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_updater_test
+10 30, 2017 7:17:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_update_info
+10 30, 2017 7:17:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_uvu_log_chk
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_web_home
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder test_web_xml
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater.db_213
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater_201.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater_215.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater_70T.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater_cws100.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater_cws2.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater_local.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater_test.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file updater_test_backup.db
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying file update_executor.bat
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder update_package_test
+10 30, 2017 7:17:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder update_package_test_bak
+10 30, 2017 7:19:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder uvu
+10 30, 2017 7:19:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: copying folder WebContent
+10 30, 2017 7:19:59 午後 jp.co.worksap.updater.selfupdate.SelfUpdater doBackup
+情報: Finished backup for controller
+10 30, 2017 7:19:59 午後 jp.co.worksap.updater.selfupdate.SelfUpdater updateController
+情報: Start update controller to CIU12200 from 12100
+10 30, 2017 7:19:59 午後 jp.co.worksap.updater.selfupdate.SelfUpdater runCommandAndExcept0
+重大: [無効なサービス名です。, , NET HELPMSG 2185 と入力すると、より詳しい説明が得られます。, ]
+10 30, 2017 7:19:59 午後 jp.co.worksap.updater.selfupdate.SelfUpdater runCommandAndExcept0
+警告: Wrong code: 2
+10 30, 2017 7:19:59 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:19:59 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:19:59 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:04 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:1
+10 30, 2017 7:20:04 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:04 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:04 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:09 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:2
+10 30, 2017 7:20:09 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:10 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:10 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:15 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:3
+10 30, 2017 7:20:15 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:15 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:15 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:20 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:4
+10 30, 2017 7:20:20 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:20 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:20 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:25 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:5
+10 30, 2017 7:20:25 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:25 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:25 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:30 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:6
+10 30, 2017 7:20:30 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:30 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:30 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:35 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:7
+10 30, 2017 7:20:35 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:35 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:35 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:40 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:8
+10 30, 2017 7:20:40 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:40 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:40 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:45 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:9
+10 30, 2017 7:20:45 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:45 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:45 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:50 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:10
+10 30, 2017 7:20:50 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:51 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:51 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:20:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:11
+10 30, 2017 7:20:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:20:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:20:56 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:01 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:12
+10 30, 2017 7:21:01 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:01 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:01 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:06 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:13
+10 30, 2017 7:21:06 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:06 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:06 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:11 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:14
+10 30, 2017 7:21:11 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:11 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:11 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:16 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:15
+10 30, 2017 7:21:16 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:16 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:16 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:21 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:16
+10 30, 2017 7:21:21 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:21 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:21 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:26 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:17
+10 30, 2017 7:21:26 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:26 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:26 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:31 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:18
+10 30, 2017 7:21:31 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:31 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:31 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:36 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:19
+10 30, 2017 7:21:36 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:37 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:37 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:42 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:20
+10 30, 2017 7:21:42 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:42 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:42 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:47 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:21
+10 30, 2017 7:21:47 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:47 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:47 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:52 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:22
+10 30, 2017 7:21:52 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:52 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:52 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:21:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:23
+10 30, 2017 7:21:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:21:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:21:57 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:22:02 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:24
+10 30, 2017 7:22:02 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:22:02 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:22:02 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:22:07 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:25
+10 30, 2017 7:22:07 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:22:07 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:22:07 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:22:12 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:26
+10 30, 2017 7:22:12 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:22:12 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:22:12 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:22:17 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:27
+10 30, 2017 7:22:17 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:22:17 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:22:17 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:22:22 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:28
+10 30, 2017 7:22:22 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:22:23 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:22:23 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:22:28 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:29
+10 30, 2017 7:22:28 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:22:28 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:22:28 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:22:33 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+警告: Can't stop directly, count:30
+10 30, 2017 7:22:33 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: try to get service state: wmic service where ( Name = "no such service name in install_controller.bat") get State
+10 30, 2017 7:22:33 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+情報: State of no such service name in install_controller.bat: 
+10 30, 2017 7:22:33 午後 jp.co.worksap.updater.selfupdate.SelfUpdater getServiceState
+重大: [利用できるインスタンスがありません。, ]
+10 30, 2017 7:22:33 午後 jp.co.worksap.updater.selfupdate.SelfUpdater detectIfProcessStopped
+情報: ProcessId of no such service name in install_controller.bat : 
+10 30, 2017 7:22:33 午後 jp.co.worksap.updater.selfupdate.SelfUpdater stopService
+重大: Stop service fail or timeout
+10 30, 2017 7:22:33 午後 jp.co.worksap.updater.selfupdate.SelfUpdater updateController
+情報: fail to STOP SERVICE of no such service name in install_controller.bat
