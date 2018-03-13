@@ -15,6 +15,7 @@ public class App {
 //    	String schema = "JINJI";
 //    	String product = "CJK";
 //    	System.out.println(String.format(QUERY_FORMAT, schema, product));
+//    	System.out.println(String.format(QUERY_FORMAT, schema, product));
     }
 
     Map<String, String> map;
