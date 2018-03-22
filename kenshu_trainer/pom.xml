@@ -31,7 +31,7 @@
         		</descriptorRefs>
         		<archive>
             		<manifest>
-            		    <mainClass>tokyo.kenshuhori_in.App</mainClass>
+            		    <mainClass>tokyo.kenshuhori_in.jdbcEducate.TruncateEducatorForDBCopy</mainClass>
            	 		</manifest>
         		</archive>
     		</configuration>
