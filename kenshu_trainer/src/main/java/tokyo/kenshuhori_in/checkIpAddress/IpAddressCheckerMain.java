@@ -41,6 +41,7 @@ public class IpAddressCheckerMain implements SubMainInterface {
             // IP情報表示
             System.out.println("③" + localHost.getHostName());
             System.out.println("④" + localHost.getHostAddress());
+            System.out.println("⑤" + localHost);
 
 		} catch (UnknownHostException e) {
 			e.printStackTrace();

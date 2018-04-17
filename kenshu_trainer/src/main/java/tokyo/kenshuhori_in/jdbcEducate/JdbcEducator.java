@@ -85,7 +85,7 @@ public class JdbcEducator implements SubMainInterface {
 		try {
 			Connection conn = DriverManager.getConnection(url, comUser, comPass);
 			Statement st = conn.createStatement();
-			String sql = "TRUNCATE TABLE %s";
+			String sql = "DROP TABLE %s";
 			int result = 0;
 			for (String table : tableList) {
 				String tableName = String.format(sql, table);
